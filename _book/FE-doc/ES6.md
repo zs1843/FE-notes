@@ -4,9 +4,7 @@
 
 ## async/await
 
-* async配合await写起来绝对的简洁啊
-
-- 来一段promise常规写法
+- 先来一段promise常规写法
 
 ```js
   const a = new Promise((resolve, reject)=>{
@@ -39,3 +37,6 @@
       console.log(e.message);
   })
 ```
+
+- async配合await写起来绝对的简洁啊
+

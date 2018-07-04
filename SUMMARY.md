@@ -8,7 +8,7 @@
 
 * [About React](_book/FE-doc/React.md)
 
-* [About Agular(NG4)](_book/FE-doc/Angular.md)
+* [About Angular(NG4)](_book/FE-doc/Angular.md)
 
 * [About Vue](_book/FE-doc/Vue.md)
 
