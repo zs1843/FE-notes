@@ -20,3 +20,5 @@
 
 * [Webpack 初探](_book/FE-doc/Webpack.md)
 
+* [about git](_book/FE-doc/Git.md)
+

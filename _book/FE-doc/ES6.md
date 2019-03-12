@@ -2,6 +2,8 @@
 
 * ES6是JavaScript的语法糖，写法上当然有很多便利。
 
+* 有一点要明白，promise本身和异步没有任何关系，只是函数的一种应用。
+
 ## async/await
 
 - 先来一段promise常规写法
