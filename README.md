@@ -1,5 +1,7 @@
 # Introduction
 
+* [Layout](_book/FE-doc/layout.md)
+
 * [ES6](_book/FE-doc/ES6.md)
 
 * [React](_book/FE-doc/React.md)
@@ -17,4 +19,6 @@
 * [Webpack](_book/FE-doc/Webpack.md)
 
 * [Git](_book/FE-doc/Git.md)
+
+
 
